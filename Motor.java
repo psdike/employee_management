@@ -8,8 +8,8 @@ class Motor {
     static final String DB_URL = "jdbc:mysql://localhost/XE";
 
     //  Database credentials
-    static final String USER = "root";
-    static final String PASS = "sairam";
+    static final String USER = "";
+    static final String PASS = "";
 
     public static void main(String args[]) {
         Connection con;
